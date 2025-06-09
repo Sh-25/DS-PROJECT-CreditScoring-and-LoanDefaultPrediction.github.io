@@ -62,6 +62,7 @@ This project demonstrates the practical application of data science in the finan
 The integration of a Streamlit web app enables real-time risk evaluation for new applicants, while the Power BI dashboard offers valuable business insights through dynamic visualizations. Together, these tools support smarter, faster, and more transparent lending decisions.
 
 ## 🛠️ Tools & Libraries Used
+
 Programming Language :
 Python – Core language for model development and app building
 
