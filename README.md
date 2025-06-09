@@ -33,12 +33,11 @@ Contains customer information including:
   - Confusion Matrix
   - ROC AUC Score (~0.86)
  
-  - ## 🌲 Decision Tree Visualization
+## 🌲 Decision Tree Visualization
 The decision tree was visualized to show how the model predicts loan default using feature-based decision paths.
 This enhances transparency and model explainability for stakeholders.
 
 ## 🖥️ Streamlit App
-
 Implemented in `StreamCredit.py`  
 Features:
 - Real-time prediction form with sliders for each feature
@@ -57,14 +56,12 @@ The Power BI dashboard enables:
 - Bar, pie, and line charts for intuitive insights
 - Business-friendly risk exploration
 
-##✅ Conclusion
+## 🧾 Conclusion
 This project demonstrates the practical application of data science in the financial domain by building an end-to-end credit scoring and loan default prediction system. Using a Decision Tree classifier, the model identifies risk factors such as credit history and income level to accurately predict defaults.
 
 The integration of a Streamlit web app enables real-time risk evaluation for new applicants, while the Power BI dashboard offers valuable business insights through dynamic visualizations. Together, these tools support smarter, faster, and more transparent lending decisions.
 
-This project not only showcases technical proficiency in machine learning and data preprocessing but also emphasizes the importance of interpretability and stakeholder-friendly tools in deploying AI for real-world problems.
-
-##🛠️ Tools & Libraries Used
+## 🛠️ Tools & Libraries Used
 Programming Language :
 Python – Core language for model development and app building
 
@@ -94,4 +91,4 @@ st.cache_data – For efficient loading and processing of CSV data in Streamlit
 Other
 langdetect – (if used in future sentiment features or multilingual credit scoring)
 
-❤️Author: [Shruti Badagandi]
+❤️  Author: [Shruti Badagandi]
