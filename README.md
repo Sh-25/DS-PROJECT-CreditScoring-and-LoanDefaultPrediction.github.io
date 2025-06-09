@@ -48,7 +48,6 @@ Features:
 - Caches data loading and encodes inputs using LabelEncoders
 
 Run with:
-```bash
 streamlit run StreamCredit.py
 
 ## 📊 Power BI Dashboard
@@ -78,14 +77,11 @@ re – Text preprocessing with regular expressions
 
 Visualization:
 matplotlib – Static visualizations (decision tree, trends)
-
 plotly – Interactive visualizations in the Streamlit app
-
 Power BI – Business dashboard for exploratory insights
 
 Machine Learning :
 scikit-learn – Model building and evaluation (Decision Tree, metrics)
-
 LabelEncoder – Encoding categorical variables for ML
 
 Model Evaluation
@@ -93,7 +89,6 @@ confusion_matrix, classification_report, roc_auc_score – Used to evaluate mode
 
 Web App Development:
 Streamlit – For creating the interactive real-time prediction app
-
 st.cache_data – For efficient loading and processing of CSV data in Streamlit
 
 Other
